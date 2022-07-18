@@ -23,6 +23,9 @@
             "@services/*": [
                 "services/*"
             ],
+            "@style/*": [
+                "style/*"
+            ],
             "@tests/*": [
                 "tests/*"
             ],
