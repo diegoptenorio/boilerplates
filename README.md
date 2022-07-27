@@ -9,7 +9,7 @@
 </p>
 
 # About
-A collection of boilerplates helpful to me, and each one has a rock band name.
+A collection of boilerplates helpful to me. Each one has a rock band name. :metal:
 
 # Setup
 
@@ -21,7 +21,7 @@ $ npm install
 
 # Features
 
-- [] Gorillaz - ReactJS boilerplate including Typescript, Redux and Tailwind
+- [X] Gorillaz - It's a ReactJS boilerplate built from a Create React App project, and it contains some dependencies including Typescript, Tailwind, Craco, Testing Library and React Router
 
 # Author
 
