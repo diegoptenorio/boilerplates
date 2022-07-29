@@ -1,1 +1,1 @@
-# Gorillaz
+# Linkin Park
