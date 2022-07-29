@@ -1,5 +1,5 @@
 export const CONSTANTS = {
     URL: {
-        GORILLAZ_OFICIAL_WEBSITE: 'https://www.gorillaz.com/'
+        IS_EVEN: 'https://api.isevenapi.xyz'
     }
 };
