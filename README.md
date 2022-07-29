@@ -21,7 +21,9 @@ $ npm install
 
 # Features
 
-- [X] Gorillaz - It's a ReactJS boilerplate built from a Create React App project, and it contains some dependencies including Typescript, Tailwind, Craco, Testing Library and React Router
+- [X] Gorillaz - It's a ReactJS boilerplate built from a Create React App project, and it contains some dependencies including Typescript, Tailwind, Craco and React Router.
+
+- [] Linkin Park - It's a ReactJS boilerplate built from a Create React App project, and it contains some dependencies including Typescript, Tailwind, Craco, React Router, Axios, Redux and Testing Library
 
 # Author
 
