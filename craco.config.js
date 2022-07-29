@@ -7,13 +7,9 @@ module.exports = {
             '@img': path.resolve(__dirname, 'src/assets/img'),
             '@components': path.resolve(__dirname, 'src/components'),
             '@constants': path.resolve(__dirname, 'src/constants'),
-            '@hooks': path.resolve(__dirname, 'src/hooks'),
             '@pages': path.resolve(__dirname, 'src/pages'),
             '@router': path.resolve(__dirname, 'src/router'),
-            '@services': path.resolve(__dirname, 'src/services'),
-            '@style': path.resolve(__dirname, 'src/style'),
-            '@tests': path.resolve(__dirname, 'src/tests'),
-            '@utils': path.resolve(__dirname, 'src/utils')
+            '@style': path.resolve(__dirname, 'src/style')
         },
     },
     module: {

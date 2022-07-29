@@ -11,27 +11,15 @@
             "@constants": [
                 "constants/"
             ],
-            "@hooks/*": [
-                "hooks/*"
-            ],
             "@pages/*": [
                 "pages/*"
             ],
             "@router": [
                 "router/"
             ],
-            "@services/*": [
-                "services/*"
-            ],
             "@style/*": [
                 "style/*"
-            ],
-            "@tests/*": [
-                "tests/*"
-            ],
-            "@utils/*": [
-                "utils/*"
-            ],
+            ]
         }
     }
 }
